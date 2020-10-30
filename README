@@ -1,0 +1,28 @@
+This README file contains information on the contents of the meta-oyster layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+  URI: git://git.yoctoproject.org/meta-freescale
+  branch: master
+
+Patches
+=======
+
+Please submit any patches against the meta-oyster layer to the xxxx mailing list (xxxx@zzzz.org)
+and cc: the maintainer:
+
+Maintainer: Landon Hsiao <xlongfeng@126.com>
+
+Table of Contents
+=================
+
+  I. Adding the meta-oyster layer to your build
+
+
+I. Adding the meta-oyster layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-oyster'
