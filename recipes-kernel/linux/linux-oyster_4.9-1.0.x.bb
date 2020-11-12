@@ -16,6 +16,6 @@ LOCALVERSION = "-oyster"
 PV .= "+git${SRCPV}"
 
 SRCBRANCH = "4.9-1.0.x-oyster"
-SRCREV = "fcde0b4a9b2b4373b8ef1f5b38f3cd355c2111ec"
+SRCREV = "0674c63227a72de074d341f41a4ed77033c5d453"
 
 COMPATIBLE_MACHINE = "(mx6|mx7)"
